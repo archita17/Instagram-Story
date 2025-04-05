@@ -1,0 +1,21 @@
+.box-model {
+  background-color: azure;
+  width: auto;
+  border: 1px solid black;
+  padding: 2px;
+  margin: 10px;
+  border-radius: 5px;
+  height: 100px;
+}
+
+.btn {
+  border: none;
+  color: black;
+  padding: 12px 16px;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+.btn:hover {
+  background-color: grey;
+}
